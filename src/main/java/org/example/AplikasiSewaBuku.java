@@ -45,7 +45,7 @@ public class AplikasiSewaBuku {
 
         // Scanner untuk input pengguna
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Selamat datang");
         // Loop utama aplikasi
         while (true) {
             tampilkanMenu();
